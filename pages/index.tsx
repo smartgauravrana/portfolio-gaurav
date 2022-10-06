@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   return (
     <div className="bg-[#242424] text-white h-screen snap-y snap-mandatory overflow-scroll z-0">
       <Head>
-        <title>Gaurav's Portfolio</title>
+        <title>Gaurav&apos;s Portfolio</title>
       </Head>
       {/* Header */}
       <Header />
